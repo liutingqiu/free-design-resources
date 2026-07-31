@@ -1,13 +1,18 @@
-# Free Design Resources
+# Free Design Resources 🎨
 
-Curated list of **free design resources** - icons, templates and tools for designers & developers.
+Curated free resources for designers & developers. Everything is MIT/Apache licensed.
 
-## 🎁 Premium Bundles
-- **1288 SVG Icon Pack** (US$5): https://payhip.com/b/3UAc8
-- **Pro Icon Pack with Preview** (US$9): https://payhip.com/b/gsG0e
-- **HTML Resume Template** (US$3): https://payhip.com/b/vEtdV
-- **LaTeX Resume Template** (US$3): https://payhip.com/b/1aKkU
+## ⚡ What you get
+- **1288 SVG Icons** - outline + solid, 16/20/24px
+- **LaTeX Resume** - professional developer resume
+- **HTML Resume** - single-page, print-ready
 
-All bundles are MIT/Apache licensed - free for commercial use.
+## 🎁 Premium Bundles (instant download)
+| Product | Price | Link |
+|---|---|---|
+| 🖼️ SVG Icon Pack (1288) | $5 | https://payhip.com/b/3UAc8 |
+| ⭐ Icon Pack Pro (all sizes + preview) | $9 | https://payhip.com/b/gsG0e |
+| 📄 LaTeX Resume | $3 | https://payhip.com/b/1aKkU |
+| 🖥️ HTML Resume | $3 | https://payhip.com/b/vEtdV |
 
-⭐ Star this repo if helpful!
+⭐ Star this repo — it helps independent creators!
