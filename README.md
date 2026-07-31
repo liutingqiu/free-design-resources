@@ -16,3 +16,10 @@ Curated free resources for designers & developers. Everything is MIT/Apache lice
 | 🖥️ HTML Resume | $3 | https://payhip.com/b/vEtdV |
 
 ⭐ Star this repo — it helps independent creators!
+
+
+## ☕ Support
+
+If you find this project useful, consider supporting me on Ko-fi: [ko-fi.com/liutingqiu](https://ko-fi.com/liutingqiu)
+
+Also check out my digital products: [TianqiDigitalStudio on Payhip](https://payhip.com/TianqiDigitalStudio)
